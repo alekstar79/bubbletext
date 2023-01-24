@@ -10,5 +10,6 @@
 ## Install and Usage
 
 Скачать архив и распаковать его. Далее, открыть индексный файл (index.html) в любом браузере. Готово!!!
+Или просто перейти по _[ссылке](https://alekstar79.github.io/bubbletext)_ и увидеть результат работы скрипта.
 
 ![GIF animation of Bubble Text](./assets/review.gif)
